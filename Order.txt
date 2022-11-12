@@ -1,0 +1,5 @@
+Customers phone number is:4163334565
+Customers name is:Stephanie Brandon
+Customers delivery address is:44 Thom
+Cake size desired is:RadioButton@5e9e1a93[styleClass=radio-button]'Medium'
+Type of Cake desired is:Coffee
